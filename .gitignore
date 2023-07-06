@@ -1,4 +1,6 @@
+# dependencies
+/node_modules
+
 willgeignore.ts
 package-lock.json
 package.json
-node_modules
